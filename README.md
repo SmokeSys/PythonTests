@@ -1,2 +1,2 @@
 # PythonTests
-From beginner to intermediate(i hope)
+From beginner to intermediate(I hope)
